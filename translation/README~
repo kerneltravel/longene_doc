@@ -1,0 +1,25 @@
+############# translated-list:
+项目文档翻译的目的
+Linux兼容内核 - 提高Linux市场竞争力的一个手 段
+Longene-0.3.0安装说明
+Longene项目调试方法
+一个框架两个界面
+
+
+############# to-be translated:
+翻译的方法、步骤和格式要求
+Longene代码编写规范
+三个源泉
+知识产权问题1
+知识产权问题2
+win32 api
+--------------- &
+漫谈兼容内核之一 至 漫谈兼容内核之二十六
+漫谈Wine之一 至 漫谈Wine之四
+
+
+############# partial translated:
+策略与路线
+若干Windows参考资料
+漫谈兼容内核之一：ReactOS怎样实现系统调用
+漫谈Wine之一：Wine的系统结构
